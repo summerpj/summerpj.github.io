@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/htmlcss1-img_canyon.jpeg");
+  background-image: url('background1.jpeg');
   background-position: center center;
   background-size: cover;
   height: 700px;
@@ -50,7 +50,7 @@ h3 {
 }
 
 h4 {
-  color: #CCC;
+  color: #FFF;
   font-family: 'huayuan', sans-serif;
   font-size: 16px;
   font-weight: 300;
